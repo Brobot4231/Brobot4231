@@ -81,3 +81,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hardik_sharma_4231/)
 
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brobot4231&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+</p>
+
