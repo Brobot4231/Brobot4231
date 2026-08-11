@@ -112,3 +112,27 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brobot4231/Brobot4231/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<table role="presentation" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;" width="33%" align="center">
+      <img src="Certificate 1.jpg" alt="Certificate 1" width="100%" style="border: 1px solid #30363d; border-radius: 6px;">
+      <br>
+      <b></b>
+    </td>
+    <td style="border: none; padding: 10px;" width="33%" align="center">
+      <img src="Certificate 2.jpg" alt="Certificate 2" width="100%" style="border: 1px solid #30363d; border-radius: 6px;">
+      <br>
+      <b></b>
+    </td>
+    <td style="border: none; padding: 10px;" width="33%" align="center">
+      <img src="Certificate 3.jpg" alt="Certificate 3" width="100%" style="border: 1px solid #30363d; border-radius: 6px;">
+      <br>
+      <b></b>
+    </td>
+  </tr>
+</table>
