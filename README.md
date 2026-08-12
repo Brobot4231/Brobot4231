@@ -72,7 +72,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brobot4231&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img src="https://my-streak-stats.onrender.com/?user=Brobot4231&theme=github-dark&hide_border=true" alt="GitHub Streak" width="70%"/>
 </p>
 
 ---
