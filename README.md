@@ -71,9 +71,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://my-streak-stats.onrender.com/?user=Brobot4231&theme=github-dark&hide_border=true" alt="GitHub Streak" width="70%"/>
-</p>
+<div align="center">
+  <!-- Your Hosted Streak Card -->
+  <img src="https://my-streak-stats.onrender.com/?user=Brobot4231&theme=github-dark&hide_border=true" alt="GitHub Streak" height="170"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-stats-extended.onrender.com/api/top-langs?username=Brobot4231&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
+</div>
 
 ---
 
